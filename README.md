@@ -12,3 +12,4 @@
 | [Определение стоимости автомобилей](ocenka_auto) | Постоение модели для определения рыночной стоимости автомобилей.| *pandas, sklearn, numpy, scipy, math, seaborn, phik, lightgbm, category_encoders* |
 | [Прогнозирование заказов такси](taxi) | Постоение модели для прогноза количества заказов такси на следующий час.| *pandas, sklearn, numpy, scipy, math, seaborn, phik, lightgbm, category_encoders, statsmodels, pmdarima* |
 | [Проект для «Викишоп»](wikishop) | Обучить модель классифицировать комментарии на позитивные и негативные.| *pandas, sklearn, numpy, statsmodels, nltk, pymystem3, re* |
+| [Определение возраста покупателей](age) | Построить модель, которая по фотографии определит приблизительный возраст человека.| *pandas, sklearn, numpy, tensorflow.keras* |
