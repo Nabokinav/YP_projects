@@ -11,3 +11,4 @@
 | [Выбор локации для скважины](skvazhiny) | Постоение модели для определения региона, где добыча принесёт наибольшую прибыль. Анализ возможной прибыли и рисков техникой Bootstrap.| *pandas, sklearn, numpy, scipy, math, seaborn, phik* |
 | [Определение стоимости автомобилей](ocenka_auto) | Постоение модели для определения рыночной стоимости автомобилей.| *pandas, sklearn, numpy, scipy, math, seaborn, phik, lightgbm, category_encoders* |
 | [Прогнозирование заказов такси](taxi) | Постоение модели для прогноза количества заказов такси на следующий час.| *pandas, sklearn, numpy, scipy, math, seaborn, phik, lightgbm, category_encoders, statsmodels, pmdarima* |
+| [Проект для «Викишоп»](wikishop) | Обучить модель классифицировать комментарии на позитивные и негативные.| *pandas, sklearn, numpy, statsmodels, nltk, pymystem3, re* |
